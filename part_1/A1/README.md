@@ -40,3 +40,13 @@ Examples include:
 - Learning Management Systems (e.g., Blackboard) remain available to students throughout the semester.
 - Campus Wi-Fi networks provide continuous access to academic resources.
 - Student ID cards with NFC chips allow authorized access to campus buildings and facilities after hours.
+
+## References
+
+Stallings, W., & Brown, L. (2018). *Computer security: Principles and practice* (4th ed.). Pearson.
+
+Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning.
+
+National Institute of Standards and Technology. (2020). *Security and privacy controls for information systems and organizations (NIST Special Publication 800-53 Rev. 5).* https://doi.org/10.6028/NIST.SP.800-53r5
+
+The University of Western Australia. (2026). *What is UniID?* https://ipoint.uwa.edu.au/app/answers/detail/a_id/319
