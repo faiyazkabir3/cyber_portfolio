@@ -58,4 +58,4 @@ By ensuring that DNS responses are authentic and unmodified, DNSSEC strengthens 
 
 Arends, R., Austein, R., Larson, M., Massey, D., & Rose, S. (2005). *DNS Security Introduction and Requirements (RFC 4033).* RFC Editor. https://www.rfc-editor.org/rfc/rfc4033
 
-Stallings, W., & Brown, L. (2018). *Computer security: Principles and practice* (4th ed.). Pearson.
+Stallings, W., & Brown, L. (2018). *Computer security: Principles and practice* (4th ed.). Pearson. https://ebooks.karbust.me/Technology/Stallings,%20William_%20Brown,%20Lawrie%20-%20Computer%20Security_%20Principles%20and%20Practice-Pearson%20Education%20Limited%20(2018).pdf
