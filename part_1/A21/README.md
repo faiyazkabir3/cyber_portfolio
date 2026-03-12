@@ -1,4 +1,4 @@
-# A20 – Participate in a Cybersecurity Discussion
+A21. Participate in an online cybersecurity discussion.
 
 ## Activity Description
 This activity involved participating in a discussion with peers about current cybersecurity threats and incidents. The purpose of the discussion was to exchange knowledge about recent cyber events, understand common attack methods, and explore ways to improve cybersecurity awareness.
