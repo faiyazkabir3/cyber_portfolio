@@ -9,7 +9,7 @@ This activity involved participating in a discussion with peers about current cy
 
 - **Location:** Discord group discussion  
 - **Date:** 12 March 2026  
-- **Participants:** Faiyaz Kabir , Mahin Tanzim Sami , Noor-A-Kamal Islam , Faisal Mahee
+- **Participants:** Faiyaz Kabir , Arik Mahmood , Noor-A-Kamal Islam , Faisal Mahee
 - **Duration:** Approximately 20–30 minutes
 
 The discussion was conducted through a Discord group chat where participants shared information about recent cybersecurity incidents and threats affecting organizations and network infrastructure.
