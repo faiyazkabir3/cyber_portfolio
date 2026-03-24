@@ -41,4 +41,6 @@ This process hides the user’s real IP address and encrypts transmitted data. E
 
 NIST. (2020). *Guide to enterprise telework, remote access, and bring your own device (BYOD) security.* https://nvlpubs.nist.gov
 
-Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning.
+Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning. https://unidel.edu.ng/focelibrary/books/Principles%20of%20Information%20Security%20by%20Whitman,%20Michael%20Mattord,%20Herbert%20(z-lib.org).pdf
+
+Fortinet. (n.d.). How does a VPN work? https://www.fortinet.com/resources/cyberglossary/how-does-vpn-work
