@@ -15,11 +15,11 @@ Offline security tools are software or hardware tools used to protect computer s
 
 Five examples of offline security tools include:
 
-1. **Antivirus software** – scans systems for malware and removes malicious files.
-2. **Disk encryption tools** – encrypt stored data to prevent unauthorized access.
-3. **Password managers** – securely store and manage strong passwords.
-4. **Backup software** – creates offline backups of important files.
-5. **System recovery tools** – restore systems after security incidents or failures.
+1. **Antivirus software** – scans systems for malware and removes malicious files. example: MS Defender
+2. **Disk encryption tools** – encrypt stored data to prevent unauthorized access. example: BitLocker
+3. **Password managers** – securely store and manage strong passwords. example: google password manager
+4. **Backup software** – creates offline backups of important files. example: MS OneDrive
+5. **System recovery tools** – restore systems after security incidents or failures. example: Windows Recovery Environment
 
 These tools are commonly used to maintain system security even when devices are disconnected from the internet.
 
