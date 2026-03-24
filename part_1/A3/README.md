@@ -46,4 +46,4 @@ Examples include:
 
 Australian Cyber Security Centre. (2023). *Essential Eight maturity model*. https://www.cyber.gov.au
 
-Stallings, W., & Brown, L. (2018). *Computer security: Principles and practice* (4th ed.). Pearson.
+Stallings, W., & Brown, L. (2018). *Computer security: Principles and practice* (4th ed.). Pearson. https://ebooks.karbust.me/Technology/Stallings,%20William_%20Brown,%20Lawrie%20-%20Computer%20Security_%20Principles%20and%20Practice-Pearson%20Education%20Limited%20(2018).pdf
