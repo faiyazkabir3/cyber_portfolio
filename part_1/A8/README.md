@@ -65,4 +65,4 @@ Without cryptographic protection, attackers could intercept device communication
 
 Thread Group. (2016). *Thread network security*. https://www.threadgroup.org/technology/security
 
-Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning.
+Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning. https://unidel.edu.ng/focelibrary/books/Principles%20of%20Information%20Security%20by%20Whitman,%20Michael%20Mattord,%20Herbert%20(z-lib.org).pdf
