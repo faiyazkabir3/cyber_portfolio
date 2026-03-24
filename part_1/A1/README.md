@@ -43,9 +43,9 @@ Examples include:
 
 ## References
 
-Stallings, W., & Brown, L. (2018). *Computer security: Principles and practice* (4th ed.). Pearson.
+Stallings, W., & Brown, L. (2018). *Computer security: Principles and practice* (4th ed.). Pearson. https://ebooks.karbust.me/Technology/Stallings,%20William_%20Brown,%20Lawrie%20-%20Computer%20Security_%20Principles%20and%20Practice-Pearson%20Education%20Limited%20(2018).pdf
 
-Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning.
+Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning.https://unidel.edu.ng/focelibrary/books/Principles%20of%20Information%20Security%20by%20Whitman,%20Michael%20Mattord,%20Herbert%20(z-lib.org).pdf
 
 National Institute of Standards and Technology. (2020). *Security and privacy controls for information systems and organizations (NIST Special Publication 800-53 Rev. 5).* https://doi.org/10.6028/NIST.SP.800-53r5
 
