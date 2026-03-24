@@ -35,4 +35,7 @@ Without the correct authentication credentials, encrypted data remains unreadabl
 
 NIST. (2001). *Advanced encryption standard (AES).* https://nvlpubs.nist.gov
 
-Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning.https://unidel.edu.ng/focelibrary/books/Principles%20of%20Information%20Security%20by%20Whitman,%20Michael%20Mattord,%20Herbert%20(z-lib.org).pdf
+Whitman, M. E., & Mattord, H. J. (2022). *Principles of information security* (7th ed.). Cengage Learning.https://unidel.edu.ng/focelibrary/books/Principles%20of%20Information%20Security%20by%20Whitman,%20Michael%20Mattord,%20Herbert%20(z-lib.org).pdf\
+
+Bitdefender. (n.d.). What is full disk encryption (FDE) & how it works. https://www.bitdefender.com/en-us/business/infozone/what-is-full-disk-encryption-fde
+
